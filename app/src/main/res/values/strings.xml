@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">BaseMVVM</string>
+    <string name="api_default_error">Có lỗi xảy ra</string>
+    <string name="str_authe">Tài khoản không hợp lệ/Nhập sai mật khẩu</string>
+    <string name="text_all_has_error_please_try">Có lỗi xảy ra, vui lòng thử lại!</string>
+    <string name="text_all_has_error_timeout">Kết nối thất bại!</string>
+    <string name="text_all_has_error_network">Lỗi kết nối mạng!</string>
+
+    <string name="str_login">Đăng nhập</string>
+    <string name="str_password">Mật khẩu</string>
+    <string name="str_forgot">Quên mật khẩu?</string>
+    <string name="str_or_social">Hoặc đăng nhập bang mạng xã hội</string>
+    <string name="str_has_account"><![CDATA[Bạn chưa có tài khoản. <font color=#57BE89>Đăng kí</font>]]></string>
+
+    <string name="facebook_app_id">519908348699671</string>
+    <string name="fb_login_protocol_scheme">fb519908348699671</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="str_email">Email</string>
+    <string name="server_client_id">784144847988-mr6067n9hph3k36rvnuikk3ukikrphrp.apps.googleusercontent.com</string>
+    <string name="str_loading">Loading...</string>
+
+</resources>
