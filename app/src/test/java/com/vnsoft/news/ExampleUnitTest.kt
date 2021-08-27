@@ -1,4 +1,4 @@
-package com.vnsoft.exam
+package com.vnsoft.asm_crawler
 
 import org.junit.Test
 
